@@ -1,0 +1,5 @@
+{
+  "name": "TaskMaster AI - Assignment Breakdown",
+  "description": "Transform complex assignments into manageable, deadline-driven milestones using Gemini AI. Upload your instructions and set a due date to get a personalized project roadmap.",
+  "requestFramePermissions": []
+}
